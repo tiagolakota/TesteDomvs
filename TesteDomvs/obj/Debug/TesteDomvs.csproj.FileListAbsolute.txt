@@ -1,0 +1,7 @@
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\bin\Debug\TesteDomvs.exe.config
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\bin\Debug\TesteDomvs.exe
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\bin\Debug\TesteDomvs.pdb
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.csprojAssemblyReference.cache
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.exe
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.pdb

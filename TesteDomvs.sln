@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteDomvs.Negocio", "Teste
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TesteDomvs.Negocio.Teste", "TesteDomvs.Negocio.Teste\TesteDomvs.Negocio.Teste.csproj", "{ED276B17-87F0-4786-AA84-A1A9612C2CC5}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Script", "Script", "{FA930779-B345-49C9-B1CE-FE579D394E8F}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\..\..\..\Source\tbAmigo.sql = ..\..\..\..\..\..\Source\tbAmigo.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU

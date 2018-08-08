@@ -1,0 +1,7 @@
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\bin\Debug\TesteDomvs.Negocio.exe.config
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\bin\Debug\TesteDomvs.Negocio.exe
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\bin\Debug\TesteDomvs.Negocio.pdb
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.Negocio.csprojAssemblyReference.cache
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.Negocio.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.Negocio.exe
+C:\Users\Lenovo i5\Documents\Visual Studio 2017\Projects\TesteDomvs\TesteDomvs\obj\Debug\TesteDomvs.Negocio.pdb
